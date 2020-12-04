@@ -1,0 +1,2 @@
+<?php
+\Couchbase\defaultDecoder();
